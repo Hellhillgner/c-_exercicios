@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\bin\Debug\net9.0\conversor_moeda.exe
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\bin\Debug\net9.0\conversor_moeda.deps.json
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\bin\Debug\net9.0\conversor_moeda.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\bin\Debug\net9.0\conversor_moeda.dll
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\bin\Debug\net9.0\conversor_moeda.pdb
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\conversor_moeda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\conversor_moeda.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\conversor_moeda.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\conversor_moeda.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\conversor_moeda.dll
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\refint\conversor_moeda.dll
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\conversor_moeda.pdb
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\conversor_moeda.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\conversor_moeda\obj\Debug\net9.0\ref\conversor_moeda.dll
