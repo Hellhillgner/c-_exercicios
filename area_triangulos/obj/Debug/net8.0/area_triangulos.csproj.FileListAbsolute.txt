@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\area_triangulos\bin\Debug\net8.0\area_triangulos.exe
+C:\Users\HillgnerMorel\source\repos\area_triangulos\bin\Debug\net8.0\area_triangulos.deps.json
+C:\Users\HillgnerMorel\source\repos\area_triangulos\bin\Debug\net8.0\area_triangulos.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\area_triangulos\bin\Debug\net8.0\area_triangulos.dll
+C:\Users\HillgnerMorel\source\repos\area_triangulos\bin\Debug\net8.0\area_triangulos.pdb
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\area_triangulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\area_triangulos.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\area_triangulos.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\area_triangulos.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\area_triangulos.dll
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\refint\area_triangulos.dll
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\area_triangulos.pdb
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\area_triangulos.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\area_triangulos\obj\Debug\net8.0\ref\area_triangulos.dll
