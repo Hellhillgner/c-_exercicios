@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\exercicio_001\bin\Debug\net8.0\exercicio_001.exe
+C:\Users\HillgnerMorel\source\repos\exercicio_001\bin\Debug\net8.0\exercicio_001.deps.json
+C:\Users\HillgnerMorel\source\repos\exercicio_001\bin\Debug\net8.0\exercicio_001.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\exercicio_001\bin\Debug\net8.0\exercicio_001.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_001\bin\Debug\net8.0\exercicio_001.pdb
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\exercicio_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\exercicio_001.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\exercicio_001.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\exercicio_001.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\exercicio_001.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\refint\exercicio_001.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\exercicio_001.pdb
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\exercicio_001.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_001\obj\Debug\net8.0\ref\exercicio_001.dll
