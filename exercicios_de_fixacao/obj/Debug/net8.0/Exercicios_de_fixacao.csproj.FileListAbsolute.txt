@@ -1,0 +1,4 @@
+C:\Users\HillgnerMorel\source\repos\Exercicios_de_fixacao\obj\Debug\net8.0\Exercicios_de_fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\Exercicios_de_fixacao\obj\Debug\net8.0\Exercicios_de_fixacao.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\Exercicios_de_fixacao\obj\Debug\net8.0\Exercicios_de_fixacao.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\Exercicios_de_fixacao\obj\Debug\net8.0\Exercicios_de_fixacao.csproj.CoreCompileInputs.cache
