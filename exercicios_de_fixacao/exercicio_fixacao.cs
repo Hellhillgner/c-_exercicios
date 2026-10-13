@@ -7,7 +7,7 @@ namespace Exercicios_de_fixacao
     {
         static void Main(string[] args)
         {
-            // Variáveis do seu exercício
+            
             string produto1 = "Computador";
             string produto2 = "Mesa de escritório";
 
