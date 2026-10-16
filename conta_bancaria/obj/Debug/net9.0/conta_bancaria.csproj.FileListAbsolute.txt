@@ -1,0 +1,15 @@
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\conta_bancaria.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\conta_bancaria.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\conta_bancaria.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\conta_bancaria.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\bin\Debug\net9.0\conta_bancaria.exe
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\bin\Debug\net9.0\conta_bancaria.deps.json
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\bin\Debug\net9.0\conta_bancaria.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\bin\Debug\net9.0\conta_bancaria.dll
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\bin\Debug\net9.0\conta_bancaria.pdb
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\conta_bancaria.dll
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\refint\conta_bancaria.dll
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\conta_bancaria.pdb
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\conta_bancaria.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\ref\conta_bancaria.dll
+C:\Users\HillgnerMorel\source\repos\conta_bancaria\obj\Debug\net9.0\conta_bancaria.sourcelink.json
