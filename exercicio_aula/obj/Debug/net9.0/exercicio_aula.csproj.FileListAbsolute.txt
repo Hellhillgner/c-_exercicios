@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\bin\Debug\net9.0\exercicio_aula.exe
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\bin\Debug\net9.0\exercicio_aula.deps.json
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\bin\Debug\net9.0\exercicio_aula.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\bin\Debug\net9.0\exercicio_aula.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\bin\Debug\net9.0\exercicio_aula.pdb
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\exercicio_aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\exercicio_aula.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\exercicio_aula.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\exercicio_aula.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\exercicio_aula.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\refint\exercicio_aula.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\exercicio_aula.pdb
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\exercicio_aula.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_aula\obj\Debug\net9.0\ref\exercicio_aula.dll
