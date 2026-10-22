@@ -1,0 +1,15 @@
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\bin\Debug\net9.0\ordenar_lista.exe
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\bin\Debug\net9.0\ordenar_lista.deps.json
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\bin\Debug\net9.0\ordenar_lista.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\bin\Debug\net9.0\ordenar_lista.dll
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\bin\Debug\net9.0\ordenar_lista.pdb
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ordenar_lista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ordenar_lista.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ordenar_lista.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ordenar_lista.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ordenar_lista.sourcelink.json
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ordenar_lista.dll
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\refint\ordenar_lista.dll
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ordenar_lista.pdb
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ordenar_lista.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\ordenar_lista\obj\Debug\net9.0\ref\ordenar_lista.dll
