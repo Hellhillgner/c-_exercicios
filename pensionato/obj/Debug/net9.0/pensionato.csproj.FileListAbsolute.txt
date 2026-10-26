@@ -1,0 +1,15 @@
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\pensionato.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\pensionato.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\pensionato.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\pensionato.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\pensionato.sourcelink.json
+C:\Users\HillgnerMorel\source\repos\pensionato\bin\Debug\net9.0\pensionato.exe
+C:\Users\HillgnerMorel\source\repos\pensionato\bin\Debug\net9.0\pensionato.deps.json
+C:\Users\HillgnerMorel\source\repos\pensionato\bin\Debug\net9.0\pensionato.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\pensionato\bin\Debug\net9.0\pensionato.dll
+C:\Users\HillgnerMorel\source\repos\pensionato\bin\Debug\net9.0\pensionato.pdb
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\pensionato.dll
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\refint\pensionato.dll
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\pensionato.pdb
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\pensionato.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\pensionato\obj\Debug\net9.0\ref\pensionato.dll
