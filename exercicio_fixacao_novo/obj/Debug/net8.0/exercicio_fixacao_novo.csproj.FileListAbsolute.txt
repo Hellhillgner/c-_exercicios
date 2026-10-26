@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\bin\Debug\net8.0\exercicio_fixacao_novo.exe
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\bin\Debug\net8.0\exercicio_fixacao_novo.deps.json
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\bin\Debug\net8.0\exercicio_fixacao_novo.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\bin\Debug\net8.0\exercicio_fixacao_novo.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\bin\Debug\net8.0\exercicio_fixacao_novo.pdb
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\exercicio_fixacao_novo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\exercicio_fixacao_novo.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\exercicio_fixacao_novo.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\exercicio_fixacao_novo.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\exercicio_fixacao_novo.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\refint\exercicio_fixacao_novo.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\exercicio_fixacao_novo.pdb
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\exercicio_fixacao_novo.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_fixacao_novo\obj\Debug\net8.0\ref\exercicio_fixacao_novo.dll
