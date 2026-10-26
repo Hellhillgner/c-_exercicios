@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\bin\Debug\net8.0\interacao_com_usuario.exe
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\bin\Debug\net8.0\interacao_com_usuario.deps.json
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\bin\Debug\net8.0\interacao_com_usuario.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\bin\Debug\net8.0\interacao_com_usuario.dll
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\bin\Debug\net8.0\interacao_com_usuario.pdb
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\interacao_com_usuario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\interacao_com_usuario.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\interacao_com_usuario.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\interacao_com_usuario.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\interacao_com_usuario.dll
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\refint\interacao_com_usuario.dll
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\interacao_com_usuario.pdb
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\interacao_com_usuario.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\interacao_com_usuario\obj\Debug\net8.0\ref\interacao_com_usuario.dll
