@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\bin\Debug\net8.0\demo_soma_de_valores.exe
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\bin\Debug\net8.0\demo_soma_de_valores.deps.json
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\bin\Debug\net8.0\demo_soma_de_valores.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\bin\Debug\net8.0\demo_soma_de_valores.dll
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\bin\Debug\net8.0\demo_soma_de_valores.pdb
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\demo_soma_de_valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\demo_soma_de_valores.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\demo_soma_de_valores.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\demo_soma_de_valores.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\demo_soma_de_valores.dll
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\refint\demo_soma_de_valores.dll
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\demo_soma_de_valores.pdb
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\demo_soma_de_valores.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\demo_soma_de_valores\obj\Debug\net8.0\ref\demo_soma_de_valores.dll
