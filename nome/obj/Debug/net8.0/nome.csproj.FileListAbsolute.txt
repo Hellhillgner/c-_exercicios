@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\nome\bin\Debug\net8.0\nome.exe
+C:\Users\HillgnerMorel\source\repos\nome\bin\Debug\net8.0\nome.deps.json
+C:\Users\HillgnerMorel\source\repos\nome\bin\Debug\net8.0\nome.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\nome\bin\Debug\net8.0\nome.dll
+C:\Users\HillgnerMorel\source\repos\nome\bin\Debug\net8.0\nome.pdb
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\nome.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\nome.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\nome.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\nome.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\nome.dll
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\refint\nome.dll
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\nome.pdb
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\nome.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\nome\obj\Debug\net8.0\ref\nome.dll
