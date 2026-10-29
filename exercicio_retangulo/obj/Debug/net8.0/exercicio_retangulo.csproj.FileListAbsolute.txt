@@ -1,0 +1,14 @@
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\bin\Debug\net8.0\exercicio_retangulo.exe
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\bin\Debug\net8.0\exercicio_retangulo.deps.json
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\bin\Debug\net8.0\exercicio_retangulo.runtimeconfig.json
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\bin\Debug\net8.0\exercicio_retangulo.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\bin\Debug\net8.0\exercicio_retangulo.pdb
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\exercicio_retangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\exercicio_retangulo.AssemblyInfoInputs.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\exercicio_retangulo.AssemblyInfo.cs
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\exercicio_retangulo.csproj.CoreCompileInputs.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\exercicio_retangulo.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\refint\exercicio_retangulo.dll
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\exercicio_retangulo.pdb
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\exercicio_retangulo.genruntimeconfig.cache
+C:\Users\HillgnerMorel\source\repos\exercicio_retangulo\obj\Debug\net8.0\ref\exercicio_retangulo.dll
